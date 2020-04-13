@@ -2,8 +2,6 @@
 Tasly GeneNet COVID-19 DRUG REPURPOSING DATA SHARING
 
 
-Tasly GeneNet COVID-19 DRUG REPURPOSING DATA SHARING
-
 2019-nCoV-Network：
 The network data was calculated automatically by AutoNet program. The 2019-nCoV-networkTable.txt contains two columns of genes in total of 938 interactions and 1344 genes. 2019-nCoV-networkList.txt contains the specific subnetworks named by hub-genes. Data sources for this network includes a local meta-pathway database for pathway enrichment analysis and a meta-PPI database to grow the network. The meta-pathway database is made of human pathways in KEGG40 and Reactome (v70)44 databases, after removing small pathways (less than five genes) and pathways which enrich too easily, such as hsa05200: Pathways in cancer. The meta-PPI database is composed of protein-protein interaction databases HPRD45, BioGrid46 (excluding genetic interactions), and STRING47 (excluding PPIs with confidence score < 0.7). 
 
