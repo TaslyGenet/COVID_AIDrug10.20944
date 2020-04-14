@@ -1,5 +1,6 @@
 # COVID19 AI Drug
-Tasly GeneNet COVID-19 DRUG REPURPOSING
+**Network Bioinformatics Analysis Provides Insight into Drug Repurposing for COVID-2019** (submitted) 
+https://www.preprints.org/manuscript/202003.0286/v1 (preprint.org)
 
 
 ## 2019-nCoV-Network
@@ -25,7 +26,7 @@ Contains results and some code for Autoseed and literature text mining, includin
 
 ## article_supplementary_info
 Cotnains three tables mentioned in the publication:
-`Supp_table_1_2019-nCoV_autoseed_34_seed_genes.xlsx`
-`Supp_table_2_2019-nCoV_enriched_pathways.xlsx`
-`Supp_table_3_78_drugs.xlsx`
+`Supp_table_1_2019-nCoV_autoseed_34_seed_genes.xlsx`: lists 34 covid-19 related genes  
+`Supp_table_2_2019-nCoV_enriched_pathways.xlsx`: lists enriched pathways  
+`Supp_table_3_78_drugs.xlsx`: lists a full list of 78 predicted drugs for covid-19 repurposing  
  
