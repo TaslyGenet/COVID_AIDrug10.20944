@@ -1,0 +1,24 @@
+ID,Description,pvalue,p.adjust,qvalue,Count
+hsa04060,Cytokine-cytokine receptor interaction,1.30E-13,7.38E-12,3.82E-12,14
+hsa04061,Viral protein interaction with cytokine and cytokine receptor,6.67E-13,1.90E-11,9.81E-12,10
+hsa04620,Toll-like receptor signaling pathway,9.98E-13,1.90E-11,9.81E-12,10
+hsa04621,NOD-like receptor signaling pathway,2.65E-10,3.77E-09,1.95E-09,10
+hsa04623,Cytosolic DNA-sensing pathway,1.53E-09,1.74E-08,9.00E-09,7
+hsa04622,RIG-I-like receptor signaling pathway,3.25E-09,3.09E-08,1.60E-08,7
+hsa04625,C-type lectin receptor signaling pathway,5.33E-08,4.08E-07,2.11E-07,7
+hsa04630,JAK-STAT signaling pathway,5.72E-08,4.08E-07,2.11E-07,8
+hsa04657,IL-17 signaling pathway,7.57E-07,4.79E-06,2.48E-06,6
+hsa04668,TNF signaling pathway,2.13E-06,1.21E-05,6.28E-06,6
+hsa04062,Chemokine signaling pathway,3.15E-06,1.63E-05,8.45E-06,7
+hsa04217,Necroptosis,1.81E-05,8.59E-05,4.44E-05,6
+hsa04933,AGE-RAGE signaling pathway in diabetic complications,2.37E-05,0.000101311,5.24E-05,5
+hsa04672,Intestinal immune network for IgA production,2.49E-05,0.000101311,5.24E-05,4
+hsa04660,T cell receptor signaling pathway,2.87E-05,0.000109149,5.64E-05,5
+hsa04659,Th17 cell differentiation,3.30E-05,0.000117435,6.07E-05,5
+hsa04380,Osteoclast differentiation,7.80E-05,0.000261435,0.000135183,5
+hsa04658,Th1 and Th2 cell differentiation,0.000295626,0.000936148,0.000484065,4
+hsa04064,NF-kappa B signaling pathway,0.000438824,0.001316473,0.000680724,4
+hsa04940,Type I diabetes mellitus,0.000463454,0.001320844,0.000682985,3
+hsa04650,Natural killer cell mediated cytotoxicity,0.001127607,0.003060646,0.001582606,4
+hsa04145,Phagosome,0.001954724,0.005064511,0.002618768,4
+hsa04612,Antigen processing and presentation,0.002629091,0.006515573,0.003369087,3
